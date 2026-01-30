@@ -3,10 +3,10 @@
 </h2>
 
 <p align="center">
-<a href="[https://retrieval-infused-reasoning-sandbox.github.io/](https://retrieval-infused-reasoning-sandbox.github.io/)" style="margin: 0 10px;">🌐 Homepage</a> |
+<a href="https://retrieval-infused-reasoning-sandbox.github.io/" style="margin: 0 10px;">🌐 Homepage</a> |
 <a href="#" style="margin: 0 10px;">🤗 Dataset</a> |
-<a href="[https://arxiv.org/abs/2601.21937](https://arxiv.org/abs/2601.21937)" style="margin: 0 10px;">📖 ArXiv</a> |
-<a href="[https://github.com/Retrieval-Infused-Reasoning-Sandbox/Retrieval-Infused-Reasoning-Sandbox](https://github.com/Retrieval-Infused-Reasoning-Sandbox/Retrieval-Infused-Reasoning-Sandbox)" style="margin: 0 10px;">🐙 GitHub</a>
+<a href="https://arxiv.org/abs/2601.21937" style="margin: 0 10px;">📖 ArXiv</a> |
+<a href="https://github.com/Retrieval-Infused-Reasoning-Sandbox/Retrieval-Infused-Reasoning-Sandbox" style="margin: 0 10px;">🐙 GitHub</a>
 </p>
 
 This repository contains the dataset, evaluation suite, and documentation for the paper "**Retrieval-Infused Reasoning Sandbox: A Benchmark for Decoupling Retrieval and Reasoning Capabilities**".
