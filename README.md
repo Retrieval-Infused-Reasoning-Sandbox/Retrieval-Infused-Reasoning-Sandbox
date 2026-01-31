@@ -1,5 +1,5 @@
 <h2 align="center" style="font-size: 2.5em; font-weight: bold; color: #2c3e50;">
-<i>DER²</i><br> Retrieval-Infused Reasoning Sandbox
+<i>DeR²</i><br> Retrieval-Infused Reasoning Sandbox
 </h2>
 
 <p align="center">
@@ -16,7 +16,7 @@ This repository contains the dataset, evaluation suite, and documentation for th
 ## 🔔 Introduction
 
 <p align="center">
-<img src="images/DER2.png" alt="DER2 Framework Overview" style="width: 800px;">
+<img src="images/DER2.png" alt="DeR² Framework Overview" style="width: 800px;">
 </p>
 
 **DER²** is a controlled frontier problems sandbox designed to evaluate how large language models (LLMs) reason over genuinely novel scientific information. Unlike standard benchmarks that evaluate end-to-end RAG pipelines, DER² **decouples evidence access from reasoning**. By isolating document-grounded reasoning, the benchmark preserves the core difficulties of deep search—multi-step synthesis, denoising, and evidence-based conclusion making—while preventing parametric leakage.
